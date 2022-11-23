@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">CodeLab</string>
     <string name="hello">hello</string>
+    <string name="happy_birthday_text">\"お誕生日おめでとう \"</string>
+    <string name="from_text">久保ちゃんより</string>
 </resources>
